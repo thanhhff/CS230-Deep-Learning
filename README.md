@@ -1,7 +1,7 @@
 # Deep Learning by Stanford University
 **Master Deep Learning, and Break into AI**
 
-Instructor: Andrew Ng, Kian Katanforoosh
+Instructor: [Andrew Ng](https://www.andrewng.org/), [Kian Katanforoosh](https://twitter.com/kiankatan?lang=en)
 
 ### Introduction
 
@@ -15,3 +15,5 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Python Basics with Numpy](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Assignment/Python%20Basics%20with%20Numpy)
     - [Logistic Regression as a Neural Network](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Assignment/Logistic%20Regression%20as%20a%20Neural%20Network)
             
+### Milestones
+- 2019 / ... / ... : Finished Course 1
