@@ -10,7 +10,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ### Programming Assignments
 
-- Course 1: Neural Networks and Deep Learning
-  - Week 2: Python Basics with Numpy
-            Logistic Regression as a Neural Network
+- Course 1: [Neural Networks and Deep Learning](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning)
+  - Week 2:
+    - [Python Basics with Numpy](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Assignment/Python%20Basics%20with%20Numpy)
+    - [Logistic Regression as a Neural Network](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Assignment/Logistic%20Regression%20as%20a%20Neural%20Network)
             
