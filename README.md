@@ -5,7 +5,7 @@ Instructor: [Andrew Ng](https://www.andrewng.org/), [Kian Katanforoosh](https://
 
 ### Introduction
 
-This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains all my work for this specialization. All the code base, quiz questions, lecture note, ... in [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
 
 ### Programming Assignments
