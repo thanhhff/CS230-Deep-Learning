@@ -24,7 +24,11 @@ This repo contains all my work for this specialization. All the code base, quiz 
     
 - Course 2: [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Course%202%20-Improving%20Deep%20Neural%20Networks)
   - Week 5: [Practical Aspects of Deep Learning](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%201/Assignment)
-  - Week 6: Optimization Algorithms
+    - [Initialization](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%201/Assignment/Initialization.ipynb)
+    - [Regularization](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%201/Assignment/Regularization_v2a.ipynb)
+    - [Gradient Checking](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%201/Assignment/Gradient%2BChecking%2Bv1.ipynb)
+  - Week 6: [Optimization Algorithms](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%202)
+    - [Optimization]()
   - Week 7: Hyperparameter Tuning, Batch Normalization and Programming Frameworks
             
 ### Milestones
