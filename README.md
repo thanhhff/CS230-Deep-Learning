@@ -28,9 +28,11 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Regularization](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%201/Assignment/Regularization_v2a.ipynb)
     - [Gradient Checking](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%201/Assignment/Gradient%2BChecking%2Bv1.ipynb)
   - Week 6: Optimization Algorithms
-    - [Optimization]()
+    - [Optimization](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%202/Assigment)
   - Week 7: Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+    - [Tensorflow]()
             
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
-- 2019 / ... / ... : Finished Course 2
+- 2019 / 10 / 26 : Finished Course 2
+- 2019 / ... / ... : Finished Course 3
