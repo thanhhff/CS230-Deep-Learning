@@ -30,7 +30,13 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - Week 6: Optimization Algorithms
     - [Optimization](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%202/Assigment)
   - Week 7: Hyperparameter Tuning, Batch Normalization and Programming Frameworks
-    - [Tensorflow]()
+    - [Tensorflow](https://github.com/thanhhff/CS230-Deep-Learning/tree/master/Course%202%20-Improving%20Deep%20Neural%20Networks/Week%203/Assigment)
+    
+- Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+  - Week 8: ML Strategy (1)
+    - Non-Assignment
+  - Week 9: ML Strategy (1)
+    - Non-Assignment
             
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
