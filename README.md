@@ -35,7 +35,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 - Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
   - Week 8: ML Strategy (1)
     - Non-Assignment
-  - Week 9: ML Strategy (1)
+  - Week 9: ML Strategy (2)
     - Non-Assignment
             
 ### Milestones
