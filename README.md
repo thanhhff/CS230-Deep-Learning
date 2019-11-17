@@ -38,6 +38,11 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - Week 9: ML Strategy (2)
     - Non-Assignment
             
+- Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
+  - Week 10: Foundations of Convolutional Neural Networks
+    - Convolutional Model: Step by Step
+    - Convolutional Model: Application
+
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
 - 2019 / 10 / 26 : Finished Course 2
