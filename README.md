@@ -41,4 +41,5 @@ This repo contains all my work for this specialization. All the code base, quiz 
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
 - 2019 / 10 / 26 : Finished Course 2
-- 2019 / ... / ... : Finished Course 3
+- 2019 / 11 / 17 : Finished Course 3
+- 2019 / ... / ... : Finished Course 4
