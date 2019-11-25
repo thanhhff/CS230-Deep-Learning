@@ -40,7 +40,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
             
 - Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
   - Week 10: Foundations of Convolutional Neural Networks
-    - Convolutional Model: Step by Step
+    - [Convolutional Model: Step by Step](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%201/Assignment/Convolution_model_Step_by_Step_v2a.ipynb)
     - Convolutional Model: Application
 
 ### Milestones
