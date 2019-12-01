@@ -9,7 +9,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ### Course Certificate 
 
-- [Neural Networks and Deep Learning](coursera.org/verify/UM9CXTUR2M7Y)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/UM9CXTUR2M7Y?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
 
 ### Programming Assignments
 
