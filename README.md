@@ -7,6 +7,9 @@ Instructor: [Andrew Ng](https://www.andrewng.org/), [Kian Katanforoosh](https://
 
 This repo contains all my work for this specialization. All the code base, quiz questions, lecture note, ... in [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
+### Course Certificate 
+
+- [Neural Networks and Deep Learning](coursera.org/verify/UM9CXTUR2M7Y)
 
 ### Programming Assignments
 
