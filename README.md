@@ -9,7 +9,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ### Course Certificate 
 
-- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/UM9CXTUR2M7Y?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UM9CXTUR2M7Y)
+- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/ZBT6K55WQEVD)
 
 ### Programming Assignments
 
