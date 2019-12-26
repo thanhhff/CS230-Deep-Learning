@@ -11,6 +11,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UM9CXTUR2M7Y)
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/ZBT6K55WQEVD)
+- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/79Q8GXGVC6JX)
 
 ### Programming Assignments
 
