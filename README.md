@@ -53,7 +53,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - Week 12: Object detection
     - [Car detection with YOLO](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203/Assignment/Autonomous_driving_application_Car_detection_v3a.ipynb)
   - Week 13: Face recognition & Neural style transfer
-    - Art generation with Neural Style Transfer
+    - [Art generation with Neural Style Transfer](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Assignment/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
     - Face Recognition
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
