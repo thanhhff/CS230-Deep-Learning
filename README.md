@@ -12,6 +12,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UM9CXTUR2M7Y)
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/ZBT6K55WQEVD)
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/79Q8GXGVC6JX)
+- [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/365ALNJXJ7Q9)
 
 ### Programming Assignments
 
@@ -54,9 +55,16 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Car detection with YOLO](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203/Assignment/Autonomous_driving_application_Car_detection_v3a.ipynb)
   - Week 13: Face recognition & Neural style transfer
     - [Art generation with Neural Style Transfer](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Assignment/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
-    - Face Recognition
+    - [Face Recognition](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Assignment/Face_Recognition_v3a.ipynb)
+    
+- Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+  - Week 14: Recurrent Neural Networks
+  - Week 15: Natural Language Processing & Word Embeddings
+  - Week 16: Sequence models & Attention mechanism
+
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
 - 2019 / 10 / 26 : Finished Course 2
 - 2019 / 11 / 17 : Finished Course 3
-- 2019 / ... / ... : Finished Course 4
+- 2020 / 01 / 01 : Finished Course 4
+- 2020 / ... / ...: Finished Course 5
