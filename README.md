@@ -59,7 +59,12 @@ This repo contains all my work for this specialization. All the code base, quiz 
     
 - Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
   - Week 14: Recurrent Neural Networks
+    - [Building a recurrent neural network - step by step](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Assignment/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
+    - [Dinosaur Island - Character-Level Language Modeling](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Assignment/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
+    - [Jazz improvisation with LSTM](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Assignment/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
   - Week 15: Natural Language Processing & Word Embeddings
+    - [Operations on word vectors - Debiasing]()
+    - [Emojify]()
   - Week 16: Sequence models & Attention mechanism
 
 ### Milestones
