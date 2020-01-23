@@ -66,10 +66,12 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Operations on word vectors - Debiasing]()
     - [Emojify]()
   - Week 16: Sequence models & Attention mechanism
+    - [Neural Machine Translation with Attention]()
+    - [Trigger word detection]()
 
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
 - 2019 / 10 / 26 : Finished Course 2
 - 2019 / 11 / 17 : Finished Course 3
 - 2020 / 01 / 01 : Finished Course 4
-- 2020 / ... / ...: Finished Course 5
+- 2020 / 01 / 24: Finished Course 5
