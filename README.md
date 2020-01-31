@@ -63,8 +63,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Dinosaur Island - Character-Level Language Modeling](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Assignment/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
     - [Jazz improvisation with LSTM](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Assignment/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
   - Week 15: Natural Language Processing & Word Embeddings
-    - [Operations on word vectors - Debiasing]()
-    - [Emojify]()
+    - [Operations on word vectors - Debiasing](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%202/Assignment/Operations_on_word_vectors_v2a.ipynb)
+    - [Emojify](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%202/Assignment/Emojify_v2a.ipynb)
   - Week 16: Sequence models & Attention mechanism
     - [Neural Machine Translation with Attention]()
     - [Trigger word detection]()
@@ -74,4 +74,4 @@ This repo contains all my work for this specialization. All the code base, quiz 
 - 2019 / 10 / 26 : Finished Course 2
 - 2019 / 11 / 17 : Finished Course 3
 - 2020 / 01 / 01 : Finished Course 4
-- 2020 / 01 / 24 : Finished Course 5
+- 2020 / 02 / 01 : Finished Course 5
