@@ -1,4 +1,4 @@
-# Deep Learning by Stanford University
+# Deep Learning by deeplearning.ai
 **Master Deep Learning, and Break into AI**
 
 Instructor: [Andrew Ng](https://www.andrewng.org/), [Kian Katanforoosh](https://twitter.com/kiankatan?lang=en)
@@ -9,10 +9,12 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ### Course Certificate 
 
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/V9KUPZPK39RT)
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UM9CXTUR2M7Y)
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/ZBT6K55WQEVD)
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/79Q8GXGVC6JX)
 - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/365ALNJXJ7Q9)
+- [Sequence Models](https://www.coursera.org/account/accomplishments/verify/JDBQTZ6N7VNT)
 
 ### Programming Assignments
 
@@ -66,8 +68,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Operations on word vectors - Debiasing](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%202/Assignment/Operations_on_word_vectors_v2a.ipynb)
     - [Emojify](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%202/Assignment/Emojify_v2a.ipynb)
   - Week 16: Sequence models & Attention mechanism
-    - [Neural Machine Translation with Attention]()
-    - [Trigger word detection]()
+    - [Neural Machine Translation with Attention](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%203/Assignment/Neural_machine_translation_with_attention_v4a.ipynb)
+    - [Trigger word detection](https://github.com/thanhhff/CS230-Deep-Learning/blob/master/Course%205%20-%20Sequence%20Models/Week%203/Assignment/Trigger_word_detection_v1a.ipynb)
 
 ### Milestones
 - 2019 / 09 / 27 : Finished Course 1
